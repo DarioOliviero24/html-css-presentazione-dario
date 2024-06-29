@@ -4,4 +4,27 @@
     box-sizing: border-box;
     font-family: "Montserrat" sans-serif;
 }
+.flex{
+    display: flex;
+}
 
+
+/*HEADER*/
+.img{
+    height: 200px;
+    width: 200px; 
+    padding: 20px 20px;
+    
+}
+.img:hover {
+    
+    transition: 1s;
+    
+}
+.color-white{
+    color: white;
+}
+.margin-h3{
+    margin-top: 50px;
+    margin-left: 20px;
+}
